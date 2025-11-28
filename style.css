@@ -72,6 +72,12 @@ img {
     object-fit: cover;
 }
 
+#books{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 /* * {
     border: 1px solid black;
 } */
